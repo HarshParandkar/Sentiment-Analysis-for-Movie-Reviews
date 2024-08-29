@@ -8,4 +8,6 @@ The project includes a simple web interface/API for interacting with the model, 
 
 **Features**
 **Model:** Trained using a neural network with embedding and pooling layers.
-**Dataset:** IMDb Movie Reviews dataset with 50,000 labeled reviews.
+**Dataset:** IMDb Movie Reviews dataset with 50,000 labeled reviews. Download it from Kaggle
+
+Open the ipynb file in your desired environment (Google Colab or Jupyter Notebook), upload the Dataset downloaded from Kaggle, and test it!
