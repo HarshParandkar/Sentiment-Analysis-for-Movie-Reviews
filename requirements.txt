@@ -1,0 +1,5 @@
+streamlit==1.25.0  # Version of Streamlit used for the web app
+tensorflow==2.14.0  # Version of TensorFlow used for model building and inference
+pandas==2.1.1  # For handling datasets and dataframes
+numpy==1.25.2  # Required for numerical operations
+matplotlib==3.8.0  # For plotting and visualizing model performance
