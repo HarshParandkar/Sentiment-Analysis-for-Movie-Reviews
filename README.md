@@ -22,9 +22,7 @@ This project is a web application that performs sentiment analysis on movie revi
 
 This project uses a model trained on the IMDb movie reviews dataset to classify reviews as either positive or negative. The web interface is created using Streamlit, making it easy to test the model across different devices and platforms.
 
-**Installation
-
-Prerequisites**
+**Installation Prerequisites**
 
 Python 3.8 or above
 
