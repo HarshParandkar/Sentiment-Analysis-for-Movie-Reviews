@@ -4,11 +4,11 @@ This project is a web application that performs sentiment analysis on movie revi
 
 **Table of Contents**
 
-Overview
+- Overview
 
-Installation
+- Installation
 
-Usage
+- Usage
 
 Model Training
 
