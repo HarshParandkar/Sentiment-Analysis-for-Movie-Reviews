@@ -1,8 +1,8 @@
-**Sentiment Analysis Web App**
+# **Sentiment Analysis Web App**
 
 This project is a web application that performs sentiment analysis on movie reviews using a pre-trained machine learning model. The app is built using Streamlit and TensorFlow, and it allows users to input their own movie reviews to receive a sentiment prediction (positive or negative).
 
-**Table of Contents**
+## **Table of Contents**
 
 - Overview
 
@@ -10,13 +10,13 @@ This project is a web application that performs sentiment analysis on movie revi
 
 - Usage
 
-Model Training
+- Model Training
 
-Project Structure
+- Project Structure
 
-Contributing
+- Contributing
 
-License
+- License
 
 **Overview**
 
