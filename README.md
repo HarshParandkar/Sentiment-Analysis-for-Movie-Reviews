@@ -18,15 +18,15 @@ This project is a web application that performs sentiment analysis on movie revi
 
 - License
 
-**Overview**
+### **Overview**
 
 This project uses a model trained on the IMDb movie reviews dataset to classify reviews as either positive or negative. The web interface is created using Streamlit, making it easy to test the model across different devices and platforms.
 
-**Installation Prerequisites**
+###  **Installation Prerequisites**
 
 Python 3.8 or above
 
-**Steps:**
+### **Steps:**
 
 Clone the repository.
 
@@ -34,7 +34,7 @@ Install the required packages from requirements.txt.
 
 Run the Streamlit app using "streamlit run app.py".
 
-**Usage**
+### **Usage**
 
 1. After starting the app, you'll see a text area where you can enter a movie review.
 
@@ -42,7 +42,7 @@ Run the Streamlit app using "streamlit run app.py".
    
 3. The app will display whether the review is positive or negative along with the model's confidence score.
 
-**Model Training**
+### **Model Training**
 
 The model was trained on the IMDb dataset using TensorFlow. The following steps were taken to prepare and train the model:
 
@@ -51,7 +51,7 @@ The model was trained on the IMDb dataset using TensorFlow. The following steps 
 3. **Training:** The model was trained for 10 epochs using binary crossentropy loss.
 
 
-**Training Script**
+### **Training Script**
 
 The training script can be found in IMDB_Sentiment_Analysis.ipynb. It includes all the necessary steps to load the dataset, preprocess the data, train the model, and evaluate its performance.
 
